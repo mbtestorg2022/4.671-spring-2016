@@ -101,7 +101,7 @@ Greenhalgh, Paul. Read "Introduction." In _Ephemeral Vistas: The Expositions Uni
 
 Braudel, Fernand. "Divisions of Space and Time in Europe." In _The Perspective of the World: Civilization and Capitalism, 15th–18th Century._ Vol. 3. Harper & Row, 1984, pp. 21–70. ISBN: 9780060153175.
 
-Berger, Suzanne. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The First Globalization: Lessons from the French (PDF)](http://www.rms-republic.com/reference/FrenchPress_Influence2.pdf) 2003.
+Berger, Suzanne. [The First Globalization: Lessons from the French (PDF)](http://www.rms-republic.com/reference/FrenchPress_Influence2.pdf) 2003.
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ Perec, Georges. "Excerpt from Penser / Classer, Hachette, 1985." In _Species of 
 
 Jones, Caroline A. "Guerre and Guernica – Paroxysms of Nationalism." UNESCO 2008.
 
-Jones, Caroline A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Doubt Fear." _Art Papers_ 29, no. 1 (2005): 24–35.
+Jones, Caroline A. "Doubt Fear." _Art Papers_ 29, no. 1 (2005): 24–35.
 
 
 {{< tdclose >}}
@@ -145,7 +145,7 @@ Redford, Bruce. _Venice and the Grand Tour_. Yale University Press, 1996, pp. 5�
 {{< tdopen >}}
 
 
-Kleingeld, Pauline. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Six Varieties of Cosmopolitanism in Late Eighteenth-Century Germany." (PDF - 7.4MB)](http://www.rug.nl/research/portal/files/3149043/Six_varieties.pdf) _Journal of the History of Ideas_ 60 (1999): 505–24.
+Kleingeld, Pauline. ["Six Varieties of Cosmopolitanism in Late Eighteenth-Century Germany." (PDF - 7.4MB)](http://www.rug.nl/research/portal/files/3149043/Six_varieties.pdf) _Journal of the History of Ideas_ 60 (1999): 505–24.
 
 Muntadas, Antoni. "Conversation between Antoni Muntadas and Mark Wigley, New York." In _Muntadas On Translation: I Giardini_. Actar, 1899, pp. 269–320. ISBN: 9788472329522. (Spanish Pavilion, 51st Venice Biennale)
 
@@ -307,9 +307,9 @@ Isozaki Arata. "Recalling The Days of Expo Art, 2001." (2011): 72–80. Translat
 {{< tdopen >}}
 
 
-Ching, Leo T. S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Globalizing the Regional, Regional Icing the Global: Mass Culture and Asianism in the Age of Late Capital." (PDF)](https://muse.jhu.edu/article/26180/pdf) _Appadurai, Globalization_ (2002): 279–306.
+Ching, Leo T. S. ["Globalizing the Regional, Regional Icing the Global: Mass Culture and Asianism in the Age of Late Capital." (PDF)](https://muse.jhu.edu/article/26180/pdf) _Appadurai, Globalization_ (2002): 279–306.
 
-Inaga, Shigemi. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Additional Recommendations for a Dialogue Between Civilizations United Nations University." (PDF)](http://www.nichibun.ac.jp/~aurora/pdf/united-nations-university.pdf) _International Conference on the Dialogue of Civilizations_ (2001).
+Inaga, Shigemi. ["Additional Recommendations for a Dialogue Between Civilizations United Nations University." (PDF)](http://www.nichibun.ac.jp/~aurora/pdf/united-nations-university.pdf) _International Conference on the Dialogue of Civilizations_ (2001).
 
 Clark, John. "A Spectacle of Questions." _Asian Art News_ (2006): 69–72.
 
@@ -356,13 +356,13 @@ Koundoura, Maria. "Speaking in Tongues: The Grammar of Transnational Capital and
 
 Enwezor, Okwui., ed. [Documenta 11](http://www.documenta.de/en/retrospective/documenta11#), Platform 5, The Exhibition (Ostfildern-Ruit: Hatje Cantz, 2002)
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Black Box." (PDF - 10.0 MB)](https://monoskop.org/images/4/42/Enwezor_Okwui_2002_The_Black_Box.pdf) 42–55.
+———. ["The Black Box." (PDF - 10.0 MB)](https://monoskop.org/images/4/42/Enwezor_Okwui_2002_The_Black_Box.pdf) 42–55.
 
 Carlos. "The Encyclopedia of Babel." 56–62.
 
 Vanderlinden, Barbara, and Elena Filipovic, eds. _The Manifesta Decade: Debates on Contemporary Art Exhibitions and Biennials in Post-Wall Europe_. MIT Press, 2006. ISBN: 9780262220767.
 
-Hanru, Hou. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Towards a New Locality: Biennials and "Global Art."" (PDF)](http://www.plantingrice.com/archives/6667) pp. 57–62.
+Hanru, Hou. ["Towards a New Locality: Biennials and "Global Art."" (PDF)](http://www.plantingrice.com/archives/6667) pp. 57–62.
 
 Filipovic, Elena. "[The Global White Cube](https://www.on-curating.org/issue-22-43/the-global-white-cube.html#.XxXx0fhKg8M)." _Politics of Display_, no. 22, pp. 63–84.
 
